@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XGbcmfuWSJZ4UJI5LM+hyCtFzQtifJLGPA0jusIDEQI=",
+  "Source": "TwitterWebAPI",
+  "BasePath": "_content/TwitterWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
